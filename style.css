@@ -1,17 +1,3 @@
-body
-{
-    font-family: sans-serif;
-    background-image: url(images/mountain.jpg);
-    background-size: cover;
-    background-repeat: no-repeat;
-    overflow: hidden;
-}
-.container
-{
-    width: 380px;
-    margin: auto;
-    border-radius: 25px;
-    background-color: rgba(0,0,0,0.1);
 
 }
 .header h1
